@@ -1,0 +1,1 @@
+A simple and interactive Tic-Tac-Toe game built using pure HTML, CSS, and JavaScript. Play against a friend in this classic two-player game with a responsive design and smooth gameplay. No libraries or frameworks—just clean, vanilla code!
